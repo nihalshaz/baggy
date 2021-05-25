@@ -5,7 +5,7 @@ This project is e commerce based shopping app  exclusively for bags .It is a use
 
 
 ## Team members
-1. Nihal N [Embed personal github URL]
+1. Nihal N [https://github.com/nihalshaz]
 2. Megha Manoj [Embed perosnal github URL]
 
 ## Team Id
