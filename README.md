@@ -1,20 +1,39 @@
-<<<<<<< HEAD
-# flutter_app
+![BFH Banner](https://trello-attachments.s3.amazonaws.com/542e9c6316504d5797afbfb9/542e9c6316504d5797afbfc1/39dee8d993841943b5723510ce663233/Frame_19.png)
 
-A new Flutter application.
+# Baggy
+This project is e commerce based shopping app  exclusively for bags .It is a user friendly app with latest styles. Best quality in affordable price is our trade mark
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Team members
+1. Nihal N [Embed personal github URL]
+2. Megha Manoj [Embed perosnal github URL]
 
-A few resources to get you started if this is your first Flutter project:
+## Team Id
+BFH/rec9Kk3x7Gv51h0uu/2021
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Link to product walkthrough
+[https://www.loom.com/share/9e9ba52eb8e9439bb65a13de88995659]
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# baggy
->>>>>>> 61e332673c8e7018083c2cdd958639ceff79e642
+## How it Works ?
+1. Step 1 Create new account.
+2. Step 2 Login to your account.
+3. Step 3 Check the product.
+4. Step 4 Add to cart. 
+
+
+## Libraries used
+firebase
+google font - ^1.1.1
+
+## How to configure
+* You can install all dependencies using 
+```sh
+pubget install
+```
+## How to Run
+
+flutter run
+
+### Demo
+
+<a href="https://drive.google.com/file/d/13RiyQmYfx3dp8-aAHIWmLAtZkYAbukWS/view?usp=sharing"> Download APK</a>
