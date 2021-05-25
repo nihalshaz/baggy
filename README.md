@@ -23,6 +23,7 @@ BFH/rec9Kk3x7Gv51h0uu/2021
 
 ## Libraries used
 firebase
+<br>
 google font - ^1.1.1
 
 ## How to configure
